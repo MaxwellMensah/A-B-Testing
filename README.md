@@ -1,7 +1,7 @@
 # A-B-Testing
 More info here: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-science/
 
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/ab-test.jpg" width="1000" height="400">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2020/10/ab-test.jpg" width="800" height="400">
 
 #### - Project Status: [Completed] 
 
