@@ -15,7 +15,7 @@ More info here: https://www.analyticsvidhya.com/blog/2020/10/ab-testing-data-sci
 * Pandas, Jupyter
 
 
-![mascot](https://learncodeonline.in/mascot.png "Code")<img src="https://www.flaticon.com/svg/static/icons/svg/1488/1488811.svg" width="30" height="30">
+![mascot](https://learncodeonline.in/mascot.png "Code")<img src="https://www.svgrepo.com/show/189268/beverage.svg" width="40" height="35">
 
 
 ### Installations:
